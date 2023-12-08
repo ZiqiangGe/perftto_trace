@@ -1,0 +1,2 @@
+chmod a+x trace_processor_shell
+./trace_processor_shell  trace-taro-TKQ1.221114.001-2023-12-08-17-50-47.perfetto-trace --httpd
