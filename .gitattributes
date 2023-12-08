@@ -1,0 +1,2 @@
+file filter=lfs diff=lfs merge=lfs -text
+C:/Users/MI/Downloads/trace_and_shell.zip filter=lfs diff=lfs merge=lfs -text
